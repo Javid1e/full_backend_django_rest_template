@@ -86,3 +86,4 @@ venv/
 venv
 /venv/
 .env
+*.lock
